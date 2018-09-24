@@ -18,9 +18,8 @@
         <div class="header-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3"><a href="#" class="web-url">www.bookstore.com</a></div>
-                    <div class="col-md-6">
-                        <h5>Free Shipping Over rs 599 + 1 Free Samples With Every Order</h5></div>
+                    <div class="col-md-9">
+                        <h5>Free Shipping Over $99 + 1 Free Samples With Every Order</h5></div>
                     <div class="col-md-3">
                         <span class="ph-number">Call : 800 1234 5678</span>
                     </div>
@@ -43,7 +42,7 @@
                                 <a href="shop.php" class="nav-link">Shop</a>
                             </li>
                             <li class="navbar-item">
-                                <a href="ab.php" class="nav-link">About</a>
+                                <a href="about.php" class="nav-link">About</a>
                             </li>
                             <li class="navbar-item">
                                 <a href="faq.php" class="nav-link">FAQ</a>
@@ -71,48 +70,48 @@
             <div id="owl-demo" class="owl-carousel owl-theme">
                 <div class="item">
                     <div class="slide">
-                        <img src="images/slide1.jpg" alt="slide1">
+                        <img id=slide-img src="images/slide1.jpg" alt="slide1">
                         <div class="content">
                             <div class="title">
-                                <h3>welcome to bookstore</h3>
+                                <h3>Welcome to Bookstore</h3>
                                 <h5>Discover the best books online with us</h5>
-                                <a href="#" class="btn">shop books</a>
+                                <a href="shop.php" class="btn">Shop Books</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="slide">
-                        <img src="images/slide2.jpg" alt="slide1">
+                        <img id=slide-img src="images/slide2.jpg" alt="slide1">
                         <div class="content">
                             <div class="title">
                                 <h3>welcome to bookstore</h3>
                                 <h5>Discover the best books online with us</h5>
-                                <a href="#" class="btn">shop books</a>
+                                <a href="shop.php" class="btn">Shop Books</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="slide">
-                        <img src="images/slide3.jpg" alt="slide1">
+                        <img id=slide-img src="images/slide3.jpg" alt="slide1">
                         <div class="content">
                             <div class="title">
-                                <h3>welcome to bookstore</h3>
+                                <h3>Welcome to Bookstore</h3>
                                 <h5>Discover the best books online with us</h5>
-                                <a href="#" class="btn">shop books</a>
+                                <a href="shop.php" class="btn">Shop Books</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="slide">
-                        <img src="images/slide4.jpg" alt="slide1">
+                        <img id=slide-img src="images/slide4.jpg" alt="slide1">
                         <div class="content">
                             <div class="title">
                                 <h3>welcome to bookstore</h3>
                                 <h5>Discover the best books online with us</h5>
-                                <a href="#" class="btn">shop books</a>
+                                <a href="shop.php" class="btn">Shop Books</a>
                             </div>
                         </div>
                     </div>
@@ -123,7 +122,7 @@
     <section class="recomended-sec">
         <div class="container">
             <div class="title">
-                <h2>highly recommendes books</h2>
+                <h2>Highly recommended Books</h2>
                 <hr>
             </div>
             <div class="row">
@@ -131,7 +130,7 @@
                     <div class="item">
                         <img src="images/img1.jpg" alt="img">
                         <h3>how to be a bwase</h3>
-                        <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
+                        <h6><span class="price">$49</span> / <a href="product-single.php">Buy Now</a></h6>
                         <div class="hover">
                             <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
@@ -143,7 +142,7 @@
                     <div class="item">
                         <img src="images/img2.jpg" alt="img">
                         <h3>How to write a book...</h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                        <h6><span class="price">$19</span> / <a href="product-single.php">Buy Now</a></h6>
                         <span class="sale">Sale !</span>
                         <div class="hover">
                             <a href="product-single.php">
@@ -156,7 +155,7 @@
                     <div class="item">
                         <img src="images/img3.jpg" alt="img">
                         <h3>7-day self publish...</h3>
-                        <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
+                        <h6><span class="price">$23</span> / <a href="product-single.php">Buy Now</a></h6>
                         <div class="hover">
                             <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
@@ -168,7 +167,7 @@
                     <div class="item">
                         <img src="images/img4.jpg" alt="img">
                         <h3>wendy doniger</h3>
-                        <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
+                        <h6><span class="price">$15</span> / <a href="product-single.php">Buy Now</a></h6>
                         <div class="hover">
                             <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
@@ -188,91 +187,92 @@
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and Scrambled it to make a type and typesetting industry. Lorem Ipsum has been the book. </p>
             <p>It has survived not only fiveLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and</p>
             <div class="btn-sec">
-                <a href="shop.php" class="btn yellow">shop books</a>
-                <a href="login.php" class="btn black">subscriptions</a>
+                <a href="shop.php" class="btn yellow">Shop Books</a>
+                <a href="login.php" class="btn black">Subscriptions</a>
             </div>
         </div>
     </section>
     <section class="recent-book-sec">
         <div class="container">
             <div class="title">
-                <h2>highly recommendes books</h2>
+                <h2>Highly recommendes Books</h2>
                 <hr>
             </div>
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r1.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                        <div class="item">
+                            <img src="images/r1.jpg" alt="img">
+                            <h3><a href="product-single.php">Keepers of the kalachakara</a></h3>
+                            <h6><span class="price">$11</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r2.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r2.jpg" alt="img">
+                            <h3><a href="product-single.php">The Fisher Queen's Dynasty</a></h3>
+                            <h6><span class="price">$16</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r3.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r3.jpg" alt="img">
+                            <h3><a href="product-single.php">Barry Eisler: Zero Sum</a></h3>
+                            <h6><span class="price">$29</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r4.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r4.jpg" alt="img">
+                            <h3><a href="product-single.php">PS From Paris</a></h3>
+                            <h6><span class="price">$27</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r5.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r5.jpg" alt="img">
+                            <h3><a href="product-single.php">Trust me Not</a></h3>
+                            <h6><span class="price">$23</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r1.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r6.jpg" alt="img">
+                            <h3><a href="product-single.php">Verity</a></h3>
+                            <h6><span class="price">$20</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r2.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r7.jpg" alt="img">
+                            <h3><a href="product-single.php">The Rule of One</a></h3>
+                            <h6><span class="price">$38</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r3.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r8.jpg" alt="img">
+                            <h3><a href="product-single.php">The Ragged Edge of Night</a></h3>
+                            <h6><span class="price">$8</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r4.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r9.jpg" alt="img">
+                            <h3><a href="product-single.php">Michael Crichton: A Case of Need</a></h3>
+                            <h6><span class="price">$35</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-2 col-md-3 col-sm-4">
-                    <div class="item">
-                        <img src="images/r5.jpg" alt="img">
-                        <h3><a href="#">Keepers of the kalachakara</a></h3>
-                        <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
+                    <div class="col-lg-2 col-md-3 col-sm-4">
+                        <div class="item">
+                            <img src="images/r10.jpg" alt="img">
+                            <h3><a href="product-single.php">What Have You Done</a></h3>
+                            <h6><span class="price">$30</span> / <a href="product-single.php">Buy Now</a></h6>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="btn-sec">
-                <a href="#" class="btn gray-btn">view all books</a>
+                <a href="shop.php" class="btn gray-btn">View all Books</a>
             </div>
         </div>
     </section>
@@ -309,7 +309,7 @@
                         <h3>Top 50% OFF on Selected</h3>
                         <h6>We are now offering some good discount 
                     on selected books go and shop them</h6>
-                        <a href="products.html" class="btn blue-btn">view all books</a>
+                        <a href="shop.php" class="btn blue-btn">view all books</a>
                         <span class="icon-point percentage">
                             <img src="images/precentagae.png" alt="">
                         </span>
@@ -320,7 +320,7 @@
                         <h3>Shop $ 500 Above and Get Extra!</h3>
                         <h6>We are now offering some good discount 
                     on selected books go and shop them</h6>
-                        <a href="products.html" class="btn blue-btn">view all books</a>
+                        <a href="shop.php" class="btn blue-btn">view all books</a>
                         <span class="icon-point amount"><img src="images/amount.png" alt=""></span>
                     </div>
                 </div>
@@ -381,8 +381,8 @@
                     <div class="timing">
                         <h4>Timing</h4>
                         <h6>Mon - Fri: 7am - 10pm</h6>
-                        <h6>​​Saturday: 8am - 10pm</h6>
-                        <h6>​Sunday: 8am - 11pm</h6>
+                        <h6>Saturday: 8am - 10pm</h6>
+                        <h6>Sunday: 8am - 11pm</h6>
                     </div>
                 </div>
                 <div class="col-md-3">
@@ -434,7 +434,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>(C) 2017. All Rights Reserved. BookStore Wordpress Theme</h5>
+                        <h5>Copyright © 2018 All Rights Reserved.</h5>
                     </div>
                     <div class="col-md-6">
                         <div class="share align-middle">
