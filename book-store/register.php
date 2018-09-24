@@ -21,10 +21,8 @@
         <div class="header-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3"><a href="#" class="web-url">www.bookstore.com</a></div>
-                    <div class="col-md-6">
-                        <h5>Free Shipping Over $99 + 3 Free Samples With Every Order</h5></div>
-                    <div class="col-md-3">
+                    <div class="col-md-9">
+                        <h5>Free Shipping Over $99 + 1 Free Samples With Every Order</h5></div>
                         <span class="ph-number">Call : 800 1234 5678</span>
                     </div>
                 </div>
@@ -177,7 +175,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>(C) 2017. All Rights Reserved. BookStore Wordpress Theme</h5>
+                        <h5>Copyright © 2018 All Rights Reserved.</h5>
                     </div>
                     <div class="col-md-6">
                         <div class="share align-middle">
