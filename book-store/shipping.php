@@ -68,7 +68,7 @@
     </header>
     <div class="breadcrumb">
         <div class="container">
-            <a class="breadcrumb-item" href="index.html">Home</a>
+            <a class="breadcrumb-item" href="index.php">Home</a>
             <span class="breadcrumb-item active">Shipping & Returns</span>
         </div>
     </div>
@@ -110,19 +110,19 @@
                     <div class="navigation">
                         <h4>Navigation</h4>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="terms-conditions.html">Terms</a></li>
-                            <li><a href="products.html">Products</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="terms-conditions.php">Terms</a></li>
+                            <li><a href="products.php">Products</a></li>
                         </ul>
                     </div>
                     <div class="navigation">
                         <h4>Help</h4>
                         <ul>
                             <li><a href="">Shipping & Returns</a></li>
-                            <li><a href="privacy-policy.html">Privacy</a></li>
-                            <li><a href="faq.html">FAQ’s</a></li>
+                            <li><a href="privacy-policy.php">Privacy</a></li>
+                            <li><a href="faq.php">FAQ’s</a></li>
                         </ul>
                     </div>
                 </div>

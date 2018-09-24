@@ -68,7 +68,7 @@
     </header>
     <div class="breadcrumb">
         <div class="container">
-            <a class="breadcrumb-item" href="index.html">Home</a>
+            <a class="breadcrumb-item" href="index.php">Home</a>
             <span class="breadcrumb-item active">Products</span>
         </div>
     </div>
@@ -83,7 +83,7 @@
                             <h3>how to be a bwase</h3>
                             <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                             <div class="hover">
-                                <a href="product-single.html">
+                                <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                             </div>
@@ -96,7 +96,7 @@
                             <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
                             <span class="sale">Sale !</span>
                             <div class="hover">
-                                <a href="product-single.html">
+                                <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                             </div>
@@ -108,7 +108,7 @@
                             <h3>7-day self publish...</h3>
                             <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                             <div class="hover">
-                                <a href="product-single.html">
+                                <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                             </div>
@@ -120,7 +120,7 @@
                             <h3>wendy doniger</h3>
                             <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                             <div class="hover">
-                                <a href="product-single.html">
+                                <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                             </div>
@@ -273,7 +273,7 @@
                     </div>
                 </div>
                 <div class="btn-sec">
-                    <a href="products.html" class="btn gray-btn">load More books</a>
+                    <a href="products.php" class="btn gray-btn">load More books</a>
                 </div>
             </div>
         </div>
@@ -300,18 +300,18 @@
                     <div class="navigation">
                         <h4>Navigation</h4>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="terms-conditions.html">Terms</a></li>
-                            <li><a href="products.html">Products</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="terms-conditions.php">Terms</a></li>
+                            <li><a href="products.php">Products</a></li>
                         </ul>
                     </div>
                     <div class="navigation">
                         <h4>Help</h4>
                         <ul>
                             <li><a href="#">Shipping & Returns</a></li>
-                            <li><a href="privacy-policy.html">Privacy</a></li>
+                            <li><a href="privacy-policy.php">Privacy</a></li>
                             <li><a href="#">FAQ’s</a></li>
                         </ul>
                     </div>

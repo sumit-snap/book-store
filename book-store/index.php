@@ -133,7 +133,7 @@
                         <h3>how to be a bwase</h3>
                         <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                         <div class="hover">
-                            <a href="product-single.html">
+                            <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                         </div>
@@ -146,7 +146,7 @@
                         <h6><span class="price">$19</span> / <a href="#">Buy Now</a></h6>
                         <span class="sale">Sale !</span>
                         <div class="hover">
-                            <a href="product-single.html">
+                            <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                         </div>
@@ -158,7 +158,7 @@
                         <h3>7-day self publish...</h3>
                         <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                         <div class="hover">
-                            <a href="product-single.html">
+                            <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                         </div>
@@ -170,7 +170,7 @@
                         <h3>wendy doniger</h3>
                         <h6><span class="price">$49</span> / <a href="#">Buy Now</a></h6>
                         <div class="hover">
-                            <a href="product-single.html">
+                            <a href="product-single.php">
                             <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span>
                             </a>
                         </div>
@@ -188,8 +188,8 @@
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and Scrambled it to make a type and typesetting industry. Lorem Ipsum has been the book. </p>
             <p>It has survived not only fiveLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and</p>
             <div class="btn-sec">
-                <a href="shop.html" class="btn yellow">shop books</a>
-                <a href="login.html" class="btn black">subscriptions</a>
+                <a href="shop.php" class="btn yellow">shop books</a>
+                <a href="login.php" class="btn black">subscriptions</a>
             </div>
         </div>
     </section>
@@ -389,19 +389,19 @@
                     <div class="navigation">
                         <h4>Navigation</h4>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li><a href="terms-conditions.html">Terms</a></li>
-                            <li><a href="products.html">Products</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                            <li><a href="terms-conditions.php">Terms</a></li>
+                            <li><a href="products.php">Products</a></li>
                         </ul>
                     </div>
                     <div class="navigation">
                         <h4>Help</h4>
                         <ul>
                             <li><a href="">Shipping & Returns</a></li>
-                            <li><a href="privacy-policy.html">Privacy</a></li>
-                            <li><a href="faq.html">FAQ’s</a></li>
+                            <li><a href="privacy-policy.php">Privacy</a></li>
+                            <li><a href="faq.php">FAQ’s</a></li>
                         </ul>
                     </div>
                 </div>
